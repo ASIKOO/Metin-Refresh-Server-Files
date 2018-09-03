@@ -6,6 +6,7 @@ Server files of the project.
 
 
 // About starting maps.
+
 MAP1_ROUGE - change the id of starting map of red kingdom
 MAP1_JAUNE - change the id of starting map of yellow kingdom
 MAP1_BLEU - change the id of starting map of blue kingdom
@@ -20,6 +21,7 @@ MAP1_BLEU_X - change coordinate X of start in map of blue kingdom
 MAP1_BLEU_Y - change coordinate X of start in map of blue kingdom
 
 // About systems.
+
 SYSTEM_CHOIX_VNUM_SHOP - 1 for enable, 0 for disable. Enable the custom design for shop.
 SYSTEM_CARTE_CADEAU - 1 for enable, 0 for disable. Enable the daily gift system.
 SYSTEM_BUFF_GROUP - 1 for enable, 0 for disable. Enable Buff group system.
